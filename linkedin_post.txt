@@ -1,0 +1,9 @@
+Completed Task 1 of my internship with @SWYNEX Technologies: Biological Dataset Selection.
+
+For this task, I explored the NCBI Gene Expression Omnibus (GEO) and selected the public dataset GSE10072, which studies gene-expression patterns related to cigarette smoking and lung adenocarcinoma.
+
+I documented the dataset source, organism, platform, sample size, research question, and key limitations in a GitHub repository. This helped me understand how public biological datasets can support research questions in genomics and molecular biology.
+
+Dataset source: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE10072
+
+#SWYNEX #Internship #Biotechnology #Bioinformatics #Genomics #NCBI

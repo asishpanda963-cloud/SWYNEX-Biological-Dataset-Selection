@@ -1,0 +1,21 @@
+SHORT LINKEDIN VIDEO SCRIPT (about 60–90 seconds)
+
+Hello, I’m Asish Panda, a Biotechnology student. This is a short explanation of Task 1 of my SWYNEX internship: Biological Dataset Selection.
+
+I selected dataset GSE10072 from the NCBI Gene Expression Omnibus, a public repository for functional genomics data.
+
+The study focuses on gene-expression patterns related to cigarette smoking and lung adenocarcinoma in humans. It uses microarray expression profiling on the Affymetrix Human Genome U133A platform.
+
+According to the GEO record, the final processed dataset contains 107 expression profiles: 58 lung tumour samples and 49 non-tumour lung tissue samples. The record also lists a raw-data archive of about 375.3 megabytes.
+
+My proposed research question is: how do gene-expression patterns differ between lung adenocarcinoma and non-tumour lung tissue, and how might smoking status relate to those patterns?
+
+I documented the source, dataset size, research question, possible next steps and limitations in my GitHub repository. This task helped me understand how to identify and describe a reliable public biological dataset.
+
+Thank you.
+
+RECORDING CHECKLIST
+- Show the GitHub README while explaining the dataset.
+- Briefly show the NCBI GEO page as the source.
+- Do not claim that you performed an analysis or produced new findings.
+- Keep the video clear, audible and within the time requested by the internship.

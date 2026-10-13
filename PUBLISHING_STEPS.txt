@@ -1,0 +1,14 @@
+# How to publish this Task 1 project
+
+1. Sign in to GitHub.
+2. Create a **new public repository** named exactly:
+   `SWYNEX-Biological-Dataset-Selection`
+3. Add the files from this folder. At minimum, upload `README.md`, `dataset_report.pdf`, `linkedin_post.txt`, and `linkedin_video_script.txt`.
+4. Make sure the repository is public and the README is visible without signing in.
+5. Open the repository in a private/incognito browser window to check that it is accessible.
+6. Publish the LinkedIn explanation post. Mention `@SWYNEX Technologies` and select the official company page, if available. Add your video or a screenshot of the project.
+7. Copy the public GitHub repository URL into **Task submission link**.
+8. Copy the public LinkedIn post URL into **LinkedIn explanation post link**.
+9. Open both links in a private/incognito window before submitting.
+
+Important: I prepared the project files, but I have not created or published anything in your GitHub or LinkedIn accounts. You must upload and publish them yourself.
